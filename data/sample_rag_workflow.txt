@@ -1,0 +1,1 @@
+Retrieval-Augmented Generation (RAG) combines information retrieval with language generation. A RAG pipeline splits documents into chunks, embeds them, retrieves relevant passages for a question, and supplies those passages to a language model as context. Grounding answers in retrieved context can reduce unsupported claims but does not guarantee correctness.

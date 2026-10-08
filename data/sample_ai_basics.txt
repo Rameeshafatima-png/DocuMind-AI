@@ -1,0 +1,1 @@
+Artificial intelligence (AI) enables computers to perform tasks that typically require human intelligence. Machine learning allows systems to learn patterns from data. Natural language processing focuses on understanding and generating human language.

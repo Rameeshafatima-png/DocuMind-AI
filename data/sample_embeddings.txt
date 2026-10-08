@@ -1,0 +1,1 @@
+Text embeddings convert words, sentences, or passages into numerical vectors. Similar meanings tend to have nearby vector representations. Sentence Transformers provides pretrained models for creating sentence embeddings.

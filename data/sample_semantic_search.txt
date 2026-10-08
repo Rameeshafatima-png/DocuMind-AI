@@ -1,0 +1,1 @@
+Semantic search compares the meaning of a query with document representations. Keyword search generally looks for matching words. Semantic search may retrieve relevant passages even when the query uses different words, although results depend on the embedding model and context.
